@@ -5,6 +5,8 @@
 <br>
 
 
+<img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="350" height="277"/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 - :eyes: I’m interested in `Back-end Development`
 - 🎓 &nbsp;I'm currently studying `Computer Science` at the `Czech Technical University`.
@@ -12,14 +14,24 @@
 - :nerd_face: Always `learning new things`
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+## Projects :
+#### Spring Microservices :
+- `rgMicroservicesApp` repository
+- `microservices-config-repo` repository
+#### Spring Security :
+- `SpringSecurity` repository
+#### Other projects :
+- `rg-pet-clinic` repository
+- `CovidInfoWebsite` repository
+- These projects were used to test some functionality, or in Learning process.
 
--  Some of my learning materials
--  Manning books : 
+## Learning materials I used :
+#### Manning books : 
    1) Spring In Action 5th(6th)
    2) Spring Security In Action
    3) Microservices In Action 2nd
+#### Docs :
 - https://www.postgresqltutorial.com/
 - https://docs.spring.io/spring-framework/docs/current/reference/html/
 
