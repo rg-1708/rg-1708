@@ -12,6 +12,7 @@
 - 🎓 &nbsp;I'm currently studying `Computer Science` at the `Czech Technical University`.
 - :computer: continuing my learning of `Spring Framework`
 - :nerd_face: Always `learning new things`
+- :computer: Three times Google HashCode participant.
 <br>
 
 
