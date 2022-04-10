@@ -16,7 +16,7 @@
 <br>
 
 
-## Projects :
+## Portfolio Projects :
 #### Spring Microservices :
 - `rgMicroservicesApp` repository
 - `microservices-config-repo` repository
@@ -25,7 +25,6 @@
 #### Other projects :
 - `rg-pet-clinic` repository
 - `CovidInfoWebsite` repository
-- These projects were used to test some functionality, or in Learning process.
 
 ## Learning materials I used :
 #### Manning books : 
