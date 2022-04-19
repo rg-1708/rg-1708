@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - :eyes: I’m interested in `Back-end Development`
-- 🎓 &nbsp;I'm currently studying `Computer Science` at the `Czech Technical University`.
+- 🎓 &nbsp;I'm currently studying `Computer Science` at the `CTU`.
 - :computer: currently exploring the realm of `Spring Framework`
 - :nerd_face: Always `learning new things`
 - :computer: Three times Google HashCode participant.
