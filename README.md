@@ -18,10 +18,10 @@
 
 ## Portfolio Projects :
 #### Spring Microservices :
-- `rgMicroservicesApp` repository
-- `microservices-config-repo` repository
+- <a href="https://github.com/rg-1708/rgMicroservicesApp">Microservices Project</a>
+- <a href="https://github.com/rg-1708/microservices-config-repo">Microservices Project Config</a>
 #### Spring Security :
-- `SpringSecurity` repository
+- <a href="https://github.com/rg-1708/SpringSecurity">Spring Security</a>
 #### Other projects :
 - `rg-pet-clinic` repository
 - `CovidInfoWebsite` repository
