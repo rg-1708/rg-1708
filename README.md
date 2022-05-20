@@ -20,8 +20,9 @@
 #### Spring Microservices :
 - <a href="https://github.com/rg-1708/rgMicroservicesApp">Microservices Project</a>
 - <a href="https://github.com/rg-1708/microservices-config-repo">Microservices Project Config</a>
-#### Spring Security :
-- <a href="https://github.com/rg-1708/SpringSecurity">Spring Security</a>
+#### Security :
+- <a href="https://github.com/rg-1708/SimpleSecurity">Simple Security</a>
+- <a href="https://github.com/rg-1708/SpringSecurity">Spring Security general</a>
 #### Other projects :
 - `rg-pet-clinic` repository
 - `CovidInfoWebsite` repository
