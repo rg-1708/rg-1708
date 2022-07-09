@@ -1,42 +1,32 @@
 <h1 align="center">Hi , I'm Ramil Gojayev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Backend+Developer;DS%20|%20Algorithms%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Enthusiast;Backend+Developer;Java+Mentor;&center=true&width=500&height=50"></a>
 </p>
 <br>
 
+<p align="left"> 👨🏻‍💻 <b> About Me </b>
+  <img width="26.9%" align = "right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+  <br>
+    <a align="left">👀 Mostly focused on back-end development</a>
+  <br>
+    <a align="left">💻 I like to explore the deeps, of the realm of programming </a>
+  <br>
+    <a align="left">🚀 Sometimes enjoy competetive programming, like Google HashCode challenges. </a>
+  <br> 
+</p>
 
-<img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="350" height="277"/>
 
-### 👨🏻‍💻 &nbsp;About Me
-- :eyes: I’m interested in `Back-end Development`
-- 🎓 &nbsp;I'm currently studying `Computer Science` at the `CTU`.
-- :computer: currently exploring the realm of `Spring Framework`
-- :nerd_face: Always `learning new things`
-- :computer: Three times Google HashCode participant.
-<br>
-
-
-## Portfolio Projects :
-#### Spring Microservices :
+## Some of my Projects :
+#### Microservices :
 - <a href="https://github.com/rg-1708/rgMicroservicesApp">Microservices Project</a>
 - <a href="https://github.com/rg-1708/microservices-config-repo">Microservices Project Config</a>
-#### Security :
+#### Back-end Security :
 - <a href="https://github.com/rg-1708/SimpleSecurity">Simple Security</a>
 - <a href="https://github.com/rg-1708/SpringSecurity">Spring Security general</a>
-#### Other projects :
-- `rg-pet-clinic` repository
+#### Small and Fun Projects :
 - `CovidInfoWebsite` repository
 
-## Learning materials I used :
-#### Manning books : 
-   1) Spring In Action 5th(6th)
-   2) Spring Security In Action
-   3) Microservices In Action 2nd
-#### Docs :
-- https://www.postgresqltutorial.com/
-- https://docs.spring.io/spring-framework/docs/current/reference/html/
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rg-1708&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rg-1708&&show_icons=true&title_color=003366&icon_color=003366&text_color=F0F2F3&bg_color=CBE6EF">
 </p>
 
