@@ -5,7 +5,7 @@
 <br>
 
 <p align="left"> 👨🏻‍💻 <b> About Me </b>
-  <img width="26.9%" align = "right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+  <img width="55.7%" align = "right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
   <br>
     <a align="left">👀 Mostly focused on back-end development</a>
   <br>
@@ -23,6 +23,8 @@
 #### Back-end Security :
 - <a href="https://github.com/rg-1708/SimpleSecurity">Simple Security</a>
 - <a href="https://github.com/rg-1708/SpringSecurity">Spring Security general</a>
+#### My LeetCode repo :
+- <a href="https://github.com/rg-1708/LeetCode">LeetCode</a>
 #### Small and Fun Projects :
 - `CovidInfoWebsite` repository
 
