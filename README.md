@@ -23,7 +23,7 @@
 #### Back-end Security :
 - <a href="https://github.com/rg-1708/SimpleSecurity">Simple Security</a>
 - <a href="https://github.com/rg-1708/SpringSecurity">Spring Security general</a>
-#### My LeetCode repo :
+#### Newly created LeetCode repo :
 - <a href="https://github.com/rg-1708/LeetCode">LeetCode</a>
 #### Small and Fun Projects :
 - `CovidInfoWebsite` repository
