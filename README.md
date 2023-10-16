@@ -88,11 +88,11 @@
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+  
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-  
+  <!--END_SECTION:activity-->
 
 </details>
 
