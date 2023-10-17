@@ -92,6 +92,7 @@
   <h3>⚡ Recent GitHub Activity</h3>
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/rg-1708/commercio-admin/issues/1) in [rg-1708/commercio-admin](https://github.com/rg-1708/commercio-admin)
   <!--END_SECTION:activity-->
 
 </details>
