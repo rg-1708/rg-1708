@@ -10,10 +10,11 @@
 
 <details open> 
   <summary><h2>🚀 My Project's Repos</h2></summary>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/rg-1708/my-portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rg-1708&repo=my-portfolio&theme=react&bg_color=1F222E&title_color=4cc9f0&hide_border=true&icon_color=3a0ca3&show_icons=false" alt="Ramil's Portfolio"></a>
     <a href="https://github.com/rg-1708/munio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rg-1708&repo=munio&theme=react&bg_color=1F222E&title_color=4cc9f0&hide_border=true&icon_color=3a0ca3&show_icons=false" alt="Munio (Discord clone)"></a>
-    <a href="https://github.com/rg-1708/commercio-admin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rg-1708&repo=commercio-admin&theme=react&bg_color=1F222E&title_color=4cc9f0&hide_border=true&icon_color=3a0ca3&show_icons=false" alt="Commercio"></a>
+    <a href="https://github.com/rg-1708/commercio-admin"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rg-1708&repo=commercio-admin&theme=react&bg_color=1F222E&title_color=4cc9f0&hide_border=true&icon_color=3a0ca3&show_icons=false" alt="Commercio-Admin"></a>
+    <a href="https://github.com/rg-1708/commercio-store"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=rg-1708&repo=commercio-store&theme=react&bg_color=1F222E&title_color=4cc9f0&hide_border=true&icon_color=3a0ca3&show_icons=false" alt="Commercio-Store"></a>
   </p>
 </details>
 
